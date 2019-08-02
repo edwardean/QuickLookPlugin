@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptedDateFormats</key>
+	<array>
+		<string>EEEE, d בMMMM yyyy</string>
+		<string>EEEE, ה-d בMMMM yyyy</string>
+		<string>EEEE, d בMMMM yyyy</string>
+		<string>EEE, d בMMM yyyy</string>
+		<string>d בMMMM yyyy</string>
+		<string>EEEE, d לMMMM yyyy</string>
+		<string>EEEE, ה-d לMMMM yyyy</string>
+		<string>EEEE, d לMMMM yyyy</string>
+		<string>EEE, d לMMM yyyy</string>
+		<string>d לMMMM yyyy</string>
+		<string>d.M.yy</string>
+		<string>d.M.yyyy</string>
+		<string>d.M</string>
+		<string>dd/MM/yy</string>
+		<string>dd/MM</string>
+		<string>d/M</string>
+		<string>MMMM</string>
+		<string>MMMM yyyy</string>
+	</array>
+	<key>AcceptedTimeFormats</key>
+	<array>
+		<string>H:mm</string>
+		<string>H:mm:ss</string>
+		<string>HH:mm:ss</string>
+	</array>
+	<key>DisplayedDateFormats</key>
+	<array>
+		<string>EEEE, d בMMMM yyyy</string>
+		<string>EEE, d בMMM yyyy</string>
+		<string>d בMMMM yyyy</string>
+		<string>d.M.yyyy</string>
+		<string>dd/MM/yy</string>
+		<string>d.M</string>
+		<string>MMMM</string>
+		<string>MMMM yyyy</string>
+		<string>yyyy</string>
+	</array>
+	<key>DisplayedTimeFormats</key>
+	<array>
+		<string>H:mm</string>
+		<string>H:mm:ss</string>
+	</array>
+	<key>FileName</key>
+	<string>generic-he-DMY.plist</string>
+</dict>
+</plist>

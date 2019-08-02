@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptedDateFormats</key>
+	<array>
+		<string>M. d</string>
+		<string>M/d</string>
+		<string>M-d</string>
+		<string>MMM d일</string>
+		<string>M월 d일</string>
+		<string>yy/M/d</string>
+		<string>yy. M. d.</string>
+		<string>yy.M.d.</string>
+		<string>yy-M-d</string>
+		<string>yyyy/M/d</string>
+		<string>yyyy. M. d.</string>
+		<string>yyyy.M.d.</string>
+		<string>yyyy/MM/dd</string>
+		<string>yyyy. MM. dd.</string>
+		<string>yyyy.MM.dd.</string>
+		<string>M. d</string>
+		<string>M/d</string>
+		<string>M-d</string>
+		<string>MMM d일</string>
+		<string>M월 d일</string>
+		<string>yyyy년 M월</string>
+		<string>yy년 MMM</string>
+		<string>yy/M</string>
+		<string>yy-M</string>
+		<string>yy. M</string>
+		<string>yy년 MMM d일</string>
+		<string>yyyy년 MMM d일</string>
+		<string>yyyy년 M월 d일</string>
+		<string>yy년 MMM d일 EEE</string>
+		<string>yyyy년 MMM d일 EEE</string>
+		<string>yyyy년 M월 d일 EEEE</string>
+		<string>yyyy-M-d</string>
+		<string>yyyy-MM-dd</string>
+		<string>yyyy년 M월</string>
+		<string>M월</string>
+		<string>yy/MM/dd</string>
+		<string>yy. MM. dd.</string>
+		<string>yy.MM.dd.</string>
+		<string>yy年 M月 d日</string>
+		<string>yyyy年 M月 d日</string>
+		<string>yy年 M月 d日</string>
+		<string>yyyy年 M月 d日</string>
+		<string>yyyy年 MM月 dd日</string>
+		<string>MM月 dd日</string>
+		<string>M月 d日</string>
+		<string>yyyy年 MM月</string>
+		<string>yyyy年 M月</string>
+		<string>M月</string>
+		<string>yyyy년</string>
+		<string>yy년 MM월</string>
+		<string>yy년 M월</string>
+	</array>
+	<key>AcceptedTimeFormats</key>
+	<array>
+		<string>H시 mm분</string>
+		<string>H시 mm분 ss초</string>
+		<string>a h시 mm분</string>
+		<string>H:mm</string>
+		<string>H:mm:ss</string>
+		<string>a h시</string>
+		<string>a h:mm</string>
+		<string>a h:mm:ss</string>
+	</array>
+	<key>DisplayedDateFormats</key>
+	<array>
+		<string>yy. M. d.</string>
+		<string>yy. MM. dd.</string>
+		<string>yyyy. M. d.</string>
+		<string>yyyy. MM. dd.</string>
+		<string>M/d</string>
+		<string>yy/M/d</string>
+		<string>yy/MM/dd</string>
+		<string>yyyy/M/d</string>
+		<string>yyyy/MM/dd</string>
+		<string>yyyy-MM-dd</string>
+		<string>yyyy년</string>
+		<string>yyyy년 M월</string>
+		<string>yyyy년 M월 d일</string>
+		<string>yyyy년 MMM d일</string>
+		<string>yyyy년 MMM d일 EEE</string>
+		<string>yyyy년 M월 d일 EEEE</string>
+		<string>M월</string>
+		<string>M월 d일</string>
+		<string>yy年 M月 d日</string>
+		<string>yyyy年 M月 d日</string>
+		<string>yyyy年 MM月 dd日</string>
+		<string>yyyy年 M月</string>
+		<string>yyyy年 MM月</string>
+		<string>M月</string>
+		<string>M月 d日</string>
+	</array>
+	<key>DisplayedTimeFormats</key>
+	<array>
+		<string>H:mm</string>
+		<string>H:mm:ss</string>
+		<string>H시 mm분</string>
+		<string>H시 mm분 ss초</string>
+		<string>a h:mm</string>
+		<string>a h:mm:ss</string>
+		<string>a h시</string>
+		<string>a h시 mm분</string>
+	</array>
+	<key>FileName</key>
+	<string>generic-ko-YMD.plist</string>
+</dict>
+</plist>

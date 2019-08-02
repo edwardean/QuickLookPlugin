@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptedDateFormats</key>
+	<array>
+		<string>yy/M/d</string>
+		<string>yyyy/M/d (E)</string>
+		<string>yyyy/MM/dd (E)</string>
+		<string>yy-M-d</string>
+		<string>M/d</string>
+		<string>M/d (E)</string>
+		<string>M-d</string>
+		<string>MMMd日</string>
+		<string>MMMMd日(E)</string>
+		<string>MMM d日</string>
+		<string>MMMd 日</string>
+		<string>MMM d 日</string>
+		<string>yy年MMM</string>
+		<string>yy 年MMM</string>
+		<string>yy年 MMM</string>
+		<string>yy 年 MMM</string>
+		<string>yy年MMMd日</string>
+		<string>yy 年MMMd日</string>
+		<string>yy 年 MMMd日</string>
+		<string>yy 年 MMM d日</string>
+		<string>yy 年 MMM d 日</string>
+		<string>yy年 MMMd日</string>
+		<string>yy年 MMM d日</string>
+		<string>yy年 MMM d 日</string>
+		<string>yy 年MMMd 日</string>
+		<string>yy 年MMM d日</string>
+		<string>yy年MMMd 日</string>
+		<string>yy年MMM d日</string>
+		<string>yy年MMM d 日</string>
+		<string>yyyy年MMMMd日(E)</string>
+		<string>M 月d日</string>
+		<string>M 月 d日</string>
+		<string>M 月d 日</string>
+		<string>M 月 d 日</string>
+		<string>yy年M 月</string>
+		<string>yy 年M 月</string>
+		<string>yy年 M 月</string>
+		<string>yy 年 M 月</string>
+		<string>yy年M 月d日</string>
+		<string>yy 年M 月d日</string>
+		<string>yy 年 M 月d日</string>
+		<string>yy 年 M 月 d日</string>
+		<string>yy 年 M 月 d 日</string>
+		<string>yy年 M 月d日</string>
+		<string>yy年 M 月 d日</string>
+		<string>yy年 M 月 d 日</string>
+		<string>yy 年M 月d 日</string>
+		<string>yy 年M 月 d日</string>
+		<string>yy年M 月d 日</string>
+		<string>yy年M 月 d日</string>
+		<string>yy年M 月 d 日</string>
+		<string>yy年MMMd日 EEE</string>
+		<string>yy 年 M 月 d 日 EEE</string>
+		<string>yy年MMMd日 EEEE</string>
+		<string>yy 年 M 月 d 日 EEEE</string>
+		<string>yy年MMMd日EEEE</string>
+		<string>yy 年 M 月 d 日EEEE</string>
+		<string>yyyy-MM-dd</string>
+		<string>yyyy年</string>
+		<string>yyyy/M/d(E)</string>
+		<string>yyyy/MM/dd(E)</string>
+		<string>M/d(E)</string>
+		<string>yyyy/M/d（E）</string>
+		<string>yyyy/MM/dd（E）</string>
+		<string>M/d（E）</string>
+		<string>M 月d日 (E)</string>
+		<string>M 月 d日 (E)</string>
+		<string>M 月d 日 (E)</string>
+		<string>M 月 d 日 (E)</string>
+		<string>M 月d日（E）</string>
+		<string>M 月 d日（E）</string>
+		<string>M 月d 日（E）</string>
+		<string>M 月 d 日（E）</string>
+		<string>MMMMd日 (E)</string>
+		<string>MMMMd日（E）</string>
+		<string>MMMMd日EEEE</string>
+		<string>MMMM</string>
+	</array>
+	<key>AcceptedTimeFormats</key>
+	<array>
+		<string>H:mm</string>
+		<string>H:mm:ss</string>
+		<string>h:mm</string>
+		<string>h:mm:ss</string>
+		<string>h:mm a</string>
+		<string>h:mma</string>
+		<string>h:mm:ss a</string>
+		<string>h:mm:ssa</string>
+		<string>h a</string>
+		<string>ah時</string>
+		<string>ah:mm</string>
+		<string>ah:mm:ss</string>
+		<string>HH:mm:ss</string>
+		<string>ah時mm分</string>
+		<string>h時mm分</string>
+		<string>H時mm分</string>
+	</array>
+	<key>DisplayedDateFormats</key>
+	<array>
+		<string>yyyy/M/d</string>
+		<string>yyyy/MM/dd</string>
+		<string>yyyy/M/d (E)</string>
+		<string>yyyy/MM/dd (E)</string>
+		<string>yyyy-M-d</string>
+		<string>yyyy-MM-dd</string>
+		<string>yy/M/d</string>
+		<string>yy/MM/dd</string>
+		<string>yy-M-d</string>
+		<string>yy-MM-dd</string>
+		<string>M/d</string>
+		<string>M/d (E)</string>
+		<string>MMMMd日</string>
+		<string>MMMMd日（E）</string>
+		<string>MMMMd日EEEE</string>
+		<string>yyyy年MMMM</string>
+		<string>yyyy年MMMMd日</string>
+		<string>yyyy年MMMMd日（E）</string>
+		<string>yyyy年MMMMd日EEEE</string>
+		<string>MMMM</string>
+		<string>yyyy</string>
+		<string>yyyy年</string>
+	</array>
+	<key>DisplayedTimeFormats</key>
+	<array>
+		<string>H:mm</string>
+		<string>H:mm:ss</string>
+		<string>h時mm分</string>
+		<string>H時mm分</string>
+		<string>ah:mm</string>
+		<string>ah:mm:ss</string>
+		<string>ah時mm分</string>
+		<string>ah時</string>
+	</array>
+	<key>FileName</key>
+	<string>generic-ja-YMD.plist</string>
+</dict>
+</plist>

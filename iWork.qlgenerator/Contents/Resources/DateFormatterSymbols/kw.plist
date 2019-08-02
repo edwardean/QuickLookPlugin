@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kw</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>a.m.</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>p.m.</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>Sul</string>
+			<string>Lun</string>
+			<string>Mth</string>
+			<string>Mhr</string>
+			<string>Yow</string>
+			<string>Gwe</string>
+			<string>Sad</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>S</string>
+			<string>M</string>
+			<string>T</string>
+			<string>W</string>
+			<string>T</string>
+			<string>F</string>
+			<string>S</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>De Sul</string>
+			<string>De Lun</string>
+			<string>De Merth</string>
+			<string>De Merher</string>
+			<string>De Yow</string>
+			<string>De Gwener</string>
+			<string>De Sadorn</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>Sul</string>
+			<string>Lun</string>
+			<string>Mth</string>
+			<string>Mhr</string>
+			<string>Yow</string>
+			<string>Gwe</string>
+			<string>Sad</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>S</string>
+			<string>M</string>
+			<string>T</string>
+			<string>W</string>
+			<string>T</string>
+			<string>F</string>
+			<string>S</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>De Sul</string>
+			<string>De Lun</string>
+			<string>De Merth</string>
+			<string>De Merher</string>
+			<string>De Yow</string>
+			<string>De Gwener</string>
+			<string>De Sadorn</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>Gen</string>
+			<string>Whe</string>
+			<string>Mer</string>
+			<string>Ebr</string>
+			<string>Me</string>
+			<string>Efn</string>
+			<string>Gor</string>
+			<string>Est</string>
+			<string>Gwn</string>
+			<string>Hed</string>
+			<string>Du</string>
+			<string>Kev</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+			<string>5</string>
+			<string>6</string>
+			<string>7</string>
+			<string>8</string>
+			<string>9</string>
+			<string>10</string>
+			<string>11</string>
+			<string>12</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>Mys Genver</string>
+			<string>Mys Whevrel</string>
+			<string>Mys Merth</string>
+			<string>Mys Ebrel</string>
+			<string>Mys Me</string>
+			<string>Mys Efan</string>
+			<string>Mys Gortheren</string>
+			<string>Mye Est</string>
+			<string>Mys Gwyngala</string>
+			<string>Mys Hedra</string>
+			<string>Mys Du</string>
+			<string>Mys Kevardhu</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>Gen</string>
+			<string>Whe</string>
+			<string>Mer</string>
+			<string>Ebr</string>
+			<string>Me</string>
+			<string>Efn</string>
+			<string>Gor</string>
+			<string>Est</string>
+			<string>Gwn</string>
+			<string>Hed</string>
+			<string>Du</string>
+			<string>Kev</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+			<string>5</string>
+			<string>6</string>
+			<string>7</string>
+			<string>8</string>
+			<string>9</string>
+			<string>10</string>
+			<string>11</string>
+			<string>12</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>Mys Genver</string>
+			<string>Mys Whevrel</string>
+			<string>Mys Merth</string>
+			<string>Mys Ebrel</string>
+			<string>Mys Me</string>
+			<string>Mys Efan</string>
+			<string>Mys Gortheren</string>
+			<string>Mye Est</string>
+			<string>Mys Gwyngala</string>
+			<string>Mys Hedra</string>
+			<string>Mys Du</string>
+			<string>Mys Kevardhu</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ki</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>Kiroko</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>Hwaĩ-inĩ</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>KMA</string>
+			<string>NTT</string>
+			<string>NMN</string>
+			<string>NMT</string>
+			<string>ART</string>
+			<string>NMA</string>
+			<string>NMM</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>K</string>
+			<string>N</string>
+			<string>N</string>
+			<string>N</string>
+			<string>A</string>
+			<string>N</string>
+			<string>N</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>Kiumia</string>
+			<string>Njumatatũ</string>
+			<string>Njumaine</string>
+			<string>Njumatana</string>
+			<string>Aramithi</string>
+			<string>Njumaa</string>
+			<string>Njumamothi</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>KMA</string>
+			<string>NTT</string>
+			<string>NMN</string>
+			<string>NMT</string>
+			<string>ART</string>
+			<string>NMA</string>
+			<string>NMM</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>K</string>
+			<string>N</string>
+			<string>N</string>
+			<string>N</string>
+			<string>A</string>
+			<string>N</string>
+			<string>N</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>Kiumia</string>
+			<string>Njumatatũ</string>
+			<string>Njumaine</string>
+			<string>Njumatana</string>
+			<string>Aramithi</string>
+			<string>Njumaa</string>
+			<string>Njumamothi</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>JEN</string>
+			<string>WKR</string>
+			<string>WGT</string>
+			<string>WKN</string>
+			<string>WTN</string>
+			<string>WTD</string>
+			<string>WMJ</string>
+			<string>WNN</string>
+			<string>WKD</string>
+			<string>WIK</string>
+			<string>WMW</string>
+			<string>DIT</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>J</string>
+			<string>K</string>
+			<string>G</string>
+			<string>K</string>
+			<string>G</string>
+			<string>G</string>
+			<string>M</string>
+			<string>K</string>
+			<string>K</string>
+			<string>I</string>
+			<string>I</string>
+			<string>D</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>Njenuarĩ</string>
+			<string>Mwere wa kerĩ</string>
+			<string>Mwere wa gatatũ</string>
+			<string>Mwere wa kana</string>
+			<string>Mwere wa gatano</string>
+			<string>Mwere wa gatandatũ</string>
+			<string>Mwere wa mũgwanja</string>
+			<string>Mwere wa kanana</string>
+			<string>Mwere wa kenda</string>
+			<string>Mwere wa ikũmi</string>
+			<string>Mwere wa ikũmi na ũmwe</string>
+			<string>Ndithemba</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>JEN</string>
+			<string>WKR</string>
+			<string>WGT</string>
+			<string>WKN</string>
+			<string>WTN</string>
+			<string>WTD</string>
+			<string>WMJ</string>
+			<string>WNN</string>
+			<string>WKD</string>
+			<string>WIK</string>
+			<string>WMW</string>
+			<string>DIT</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>J</string>
+			<string>K</string>
+			<string>G</string>
+			<string>K</string>
+			<string>G</string>
+			<string>G</string>
+			<string>M</string>
+			<string>K</string>
+			<string>K</string>
+			<string>I</string>
+			<string>I</string>
+			<string>D</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>Njenuarĩ</string>
+			<string>Mwere wa kerĩ</string>
+			<string>Mwere wa gatatũ</string>
+			<string>Mwere wa kana</string>
+			<string>Mwere wa gatano</string>
+			<string>Mwere wa gatandatũ</string>
+			<string>Mwere wa mũgwanja</string>
+			<string>Mwere wa kanana</string>
+			<string>Mwere wa kenda</string>
+			<string>Mwere wa ikũmi</string>
+			<string>Mwere wa ikũmi na ũmwe</string>
+			<string>Ndithemba</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>h:mm:ss a zzzz</string>
+		<key>timeFormats.long</key>
+		<string>h:mm:ss a z</string>
+		<key>timeFormats.medium</key>
+		<string>h:mm:ss a</string>
+		<key>timeFormats.short</key>
+		<string>h:mm a</string>
+	</dict>
+</dict>
+</plist>

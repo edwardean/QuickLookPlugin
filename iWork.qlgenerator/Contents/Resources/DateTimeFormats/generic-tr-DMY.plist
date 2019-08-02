@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptedDateFormats</key>
+	<array>
+		<string>d/M/yy</string>
+		<string>d-M-yy</string>
+		<string>d/M/yyyy</string>
+		<string>dd/MM/yyyy</string>
+		<string>d.M.yy</string>
+		<string>dd.MM.yy</string>
+		<string>dd.MM.yyyy</string>
+		<string>d.M</string>
+		<string>d-M</string>
+		<string>d/M</string>
+		<string>d MMM</string>
+		<string>MMMM yyyy</string>
+		<string>MMM yy</string>
+		<string>M.yy</string>
+		<string>M-yy</string>
+		<string>d-MMM-yy</string>
+		<string>d MMM yy</string>
+		<string>d MMM yyyy</string>
+		<string>d MMMM yyyy</string>
+		<string>d MMM yy EEE</string>
+		<string>d MMMM yyyy EEEE</string>
+		<string>d MMMM yyyy EEE</string>
+		<string>MMMM yyyy</string>
+		<string>MMMM</string>
+	</array>
+	<key>AcceptedTimeFormats</key>
+	<array>
+		<string>HH:mm</string>
+		<string>H:mm:ss</string>
+		<string>HH:mm:ss</string>
+	</array>
+	<key>DisplayedDateFormats</key>
+	<array>
+		<string>d MMMM yyyy EEEE</string>
+		<string>d MMMM yyyy EEE</string>
+		<string>d MMMM yyyy</string>
+		<string>d MMM yyyy</string>
+		<string>d MMMM</string>
+		<string>d MMM</string>
+		<string>MMMM yyyy</string>
+		<string>MMM yyyy</string>
+		<string>MMMM yy</string>
+		<string>MMMM</string>
+		<string>dd/MM/yyyy</string>
+		<string>d/M/yyyy</string>
+		<string>d.MM.yyyy</string>
+		<string>d/M/yy</string>
+		<string>d-M-yy</string>
+		<string>d/M</string>
+		<string>d-M</string>
+		<string>M/yy</string>
+		<string>M-yy</string>
+		<string>yyyy</string>
+	</array>
+	<key>DisplayedTimeFormats</key>
+	<array>
+		<string>HH:mm</string>
+		<string>HH:mm:ss</string>
+	</array>
+	<key>FileName</key>
+	<string>generic-tr-DMY.plist</string>
+</dict>
+</plist>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptedDateFormats</key>
+	<array>
+		<string>d. M. yyyy</string>
+		<string>dd.MM.yyyy</string>
+		<string>d.M.yyyy</string>
+		<string>dd. MM. yyyy</string>
+		<string>d. M. yy</string>
+		<string>dd.MM.yy</string>
+		<string>d.M.yy</string>
+		<string>dd. MM. yy</string>
+		<string>d. M. ''yy</string>
+		<string>dd. MM. ''yy</string>
+		<string>d/M yyyy</string>
+		<string>dd/MM yyyy</string>
+		<string>d/M yy</string>
+		<string>dd/MM yy</string>
+		<string>dd/MM/yyyy</string>
+		<string>dd-MM-yyyy</string>
+		<string>dd-MM-yy</string>
+		<string>d. M.</string>
+		<string>d.M.</string>
+		<string>d. MMM</string>
+		<string>d/M</string>
+		<string>dd/MM</string>
+		<string>d. MMMM</string>
+		<string>LLLL yyyy</string>
+		<string>LLLL yy</string>
+		<string>LLLL ''yy</string>
+		<string>LLL yy</string>
+		<string>M/yy</string>
+		<string>M-yy</string>
+		<string>d-MMM-yy</string>
+		<string>d. MMMM yyyy</string>
+		<string>d. MMMM yy</string>
+		<string>d. MMMM ''yy</string>
+		<string>d-MMM-yy</string>
+		<string>d. MMM yy</string>
+		<string>d. MMM yyyy</string>
+		<string>EEE d. M. yy</string>
+		<string>EEE d. MMM yyyy</string>
+		<string>EEE d-MMM-yy</string>
+		<string>EEE d. M. yyyy</string>
+		<string>EEEE d. MMMM yyyy</string>
+		<string>yyyy-MM-dd</string>
+		<string>yyyy-M-d</string>
+		<string>LLLL</string>
+	</array>
+	<key>AcceptedTimeFormats</key>
+	<array>
+		<string>H:mm</string>
+		<string>H.mm</string>
+		<string>HH:mm</string>
+		<string>HH.mm</string>
+		<string>H:mm:ss</string>
+		<string>H.mm:ss</string>
+		<string>HH:mm:ss</string>
+		<string>HH.mm:ss</string>
+		<string>h:mm</string>
+		<string>h.mm</string>
+		<string>hh:mm</string>
+		<string>hh.mm</string>
+		<string>h:mm:ss</string>
+		<string>h.mm:ss</string>
+		<string>hh:mm:ss</string>
+		<string>hh.mm:ss</string>
+	</array>
+	<key>DisplayedDateFormats</key>
+	<array>
+		<string>EEEE d. MMMM yyyy</string>
+		<string>EEE d. M. yyyy</string>
+		<string>d. MMMM yyyy</string>
+		<string>d. MMMM</string>
+		<string>LLLL yyyy</string>
+		<string>LLLL</string>
+		<string>yyyy</string>
+		<string>d. M.</string>
+		<string>d. M. yyyy</string>
+		<string>dd.MM.yyyy</string>
+		<string>yyyy-MM-dd</string>
+	</array>
+	<key>DisplayedTimeFormats</key>
+	<array>
+		<string>H:mm</string>
+		<string>H:mm:ss</string>
+	</array>
+	<key>FileName</key>
+	<string>generic-cs-DMY.plist</string>
+</dict>
+</plist>

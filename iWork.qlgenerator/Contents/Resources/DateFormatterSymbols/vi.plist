@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>vi</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, 'ngày' dd MMMM 'năm' y</string>
+		<key>dateFormats.long</key>
+		<string>'Ngày' dd 'tháng' MM 'năm' y</string>
+		<key>dateFormats.medium</key>
+		<string>dd-MM-y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>SA</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>CH</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>CN</string>
+			<string>Th 2</string>
+			<string>Th 3</string>
+			<string>Th 4</string>
+			<string>Th 5</string>
+			<string>Th 6</string>
+			<string>Th 7</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>CN</string>
+			<string>T2</string>
+			<string>T3</string>
+			<string>T4</string>
+			<string>T5</string>
+			<string>T6</string>
+			<string>T7</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>Chủ Nhật</string>
+			<string>Thứ Hai</string>
+			<string>Thứ Ba</string>
+			<string>Thứ Tư</string>
+			<string>Thứ Năm</string>
+			<string>Thứ Sáu</string>
+			<string>Thứ Bảy</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>CN</string>
+			<string>Th 2</string>
+			<string>Th 3</string>
+			<string>Th 4</string>
+			<string>Th 5</string>
+			<string>Th 6</string>
+			<string>Th 7</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>CN</string>
+			<string>T2</string>
+			<string>T3</string>
+			<string>T4</string>
+			<string>T5</string>
+			<string>T6</string>
+			<string>T7</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>Chủ Nhật</string>
+			<string>Thứ Hai</string>
+			<string>Thứ Ba</string>
+			<string>Thứ Tư</string>
+			<string>Thứ Năm</string>
+			<string>Thứ Sáu</string>
+			<string>Thứ Bảy</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>thg 1</string>
+			<string>thg 2</string>
+			<string>thg 3</string>
+			<string>thg 4</string>
+			<string>thg 5</string>
+			<string>thg 6</string>
+			<string>thg 7</string>
+			<string>thg 8</string>
+			<string>thg 9</string>
+			<string>thg 10</string>
+			<string>thg 11</string>
+			<string>thg 12</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+			<string>5</string>
+			<string>6</string>
+			<string>7</string>
+			<string>8</string>
+			<string>9</string>
+			<string>10</string>
+			<string>11</string>
+			<string>12</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>tháng 1</string>
+			<string>tháng 2</string>
+			<string>tháng 3</string>
+			<string>tháng 4</string>
+			<string>tháng 5</string>
+			<string>tháng 6</string>
+			<string>tháng 7</string>
+			<string>tháng 8</string>
+			<string>tháng 9</string>
+			<string>tháng 10</string>
+			<string>tháng 11</string>
+			<string>tháng 12</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>Thg 1</string>
+			<string>Thg 2</string>
+			<string>Thg 3</string>
+			<string>Thg 4</string>
+			<string>Thg 5</string>
+			<string>Thg 6</string>
+			<string>Thg 7</string>
+			<string>Thg 8</string>
+			<string>Thg 9</string>
+			<string>Thg 10</string>
+			<string>Thg 11</string>
+			<string>Thg 12</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+			<string>5</string>
+			<string>6</string>
+			<string>7</string>
+			<string>8</string>
+			<string>9</string>
+			<string>10</string>
+			<string>11</string>
+			<string>12</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>Tháng 1</string>
+			<string>Tháng 2</string>
+			<string>Tháng 3</string>
+			<string>Tháng 4</string>
+			<string>Tháng 5</string>
+			<string>Tháng 6</string>
+			<string>Tháng 7</string>
+			<string>Tháng 8</string>
+			<string>Tháng 9</string>
+			<string>Tháng 10</string>
+			<string>Tháng 11</string>
+			<string>Tháng 12</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+</dict>
+</plist>

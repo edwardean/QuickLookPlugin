@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ln</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>d/M/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>ntɔ́ngɔ́</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>mpókwa</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>eye</string>
+			<string>ybo</string>
+			<string>mbl</string>
+			<string>mst</string>
+			<string>min</string>
+			<string>mtn</string>
+			<string>mps</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>e</string>
+			<string>y</string>
+			<string>m</string>
+			<string>m</string>
+			<string>m</string>
+			<string>m</string>
+			<string>p</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>eyenga</string>
+			<string>mokɔlɔ mwa yambo</string>
+			<string>mokɔlɔ mwa míbalé</string>
+			<string>mokɔlɔ mwa mísáto</string>
+			<string>mokɔlɔ ya mínéi</string>
+			<string>mokɔlɔ ya mítáno</string>
+			<string>mpɔ́sɔ</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>eye</string>
+			<string>ybo</string>
+			<string>mbl</string>
+			<string>mst</string>
+			<string>min</string>
+			<string>mtn</string>
+			<string>mps</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>e</string>
+			<string>y</string>
+			<string>m</string>
+			<string>m</string>
+			<string>m</string>
+			<string>m</string>
+			<string>p</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>eyenga</string>
+			<string>mokɔlɔ mwa yambo</string>
+			<string>mokɔlɔ mwa míbalé</string>
+			<string>mokɔlɔ mwa mísáto</string>
+			<string>mokɔlɔ ya mínéi</string>
+			<string>mokɔlɔ ya mítáno</string>
+			<string>mpɔ́sɔ</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>yan</string>
+			<string>fbl</string>
+			<string>msi</string>
+			<string>apl</string>
+			<string>mai</string>
+			<string>yun</string>
+			<string>yul</string>
+			<string>agt</string>
+			<string>stb</string>
+			<string>ɔtb</string>
+			<string>nvb</string>
+			<string>dsb</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>y</string>
+			<string>f</string>
+			<string>m</string>
+			<string>a</string>
+			<string>m</string>
+			<string>y</string>
+			<string>y</string>
+			<string>a</string>
+			<string>s</string>
+			<string>ɔ</string>
+			<string>n</string>
+			<string>d</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>sánzá ya yambo</string>
+			<string>sánzá ya míbalé</string>
+			<string>sánzá ya mísáto</string>
+			<string>sánzá ya mínei</string>
+			<string>sánzá ya mítáno</string>
+			<string>sánzá ya motóbá</string>
+			<string>sánzá ya nsambo</string>
+			<string>sánzá ya mwambe</string>
+			<string>sánzá ya libwa</string>
+			<string>sánzá ya zómi</string>
+			<string>sánzá ya zómi na mɔ̌kɔ́</string>
+			<string>sánzá ya zómi na míbalé</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>yan</string>
+			<string>fbl</string>
+			<string>msi</string>
+			<string>apl</string>
+			<string>mai</string>
+			<string>yun</string>
+			<string>yul</string>
+			<string>agt</string>
+			<string>stb</string>
+			<string>ɔtb</string>
+			<string>nvb</string>
+			<string>dsb</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>y</string>
+			<string>f</string>
+			<string>m</string>
+			<string>a</string>
+			<string>m</string>
+			<string>y</string>
+			<string>y</string>
+			<string>a</string>
+			<string>s</string>
+			<string>ɔ</string>
+			<string>n</string>
+			<string>d</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>sánzá ya yambo</string>
+			<string>sánzá ya míbalé</string>
+			<string>sánzá ya mísáto</string>
+			<string>sánzá ya mínei</string>
+			<string>sánzá ya mítáno</string>
+			<string>sánzá ya motóbá</string>
+			<string>sánzá ya nsambo</string>
+			<string>sánzá ya mwambe</string>
+			<string>sánzá ya libwa</string>
+			<string>sánzá ya zómi</string>
+			<string>sánzá ya zómi na mɔ̌kɔ́</string>
+			<string>sánzá ya zómi na míbalé</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+</dict>
+</plist>

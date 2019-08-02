@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aa</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, MMMM dd, y</string>
+		<key>dateFormats.long</key>
+		<string>dd MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>dd-MMM-y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/yy</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>saaku</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>carra</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>Aca</string>
+			<string>Etl</string>
+			<string>Tal</string>
+			<string>Arb</string>
+			<string>Kam</string>
+			<string>Gum</string>
+			<string>Sab</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>A</string>
+			<string>E</string>
+			<string>T</string>
+			<string>A</string>
+			<string>K</string>
+			<string>G</string>
+			<string>S</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>Acaada</string>
+			<string>Etleeni</string>
+			<string>Talaata</string>
+			<string>Arbaqa</string>
+			<string>Kamiisi</string>
+			<string>Gumqata</string>
+			<string>Sabti</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>Aca</string>
+			<string>Etl</string>
+			<string>Tal</string>
+			<string>Arb</string>
+			<string>Kam</string>
+			<string>Gum</string>
+			<string>Sab</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>A</string>
+			<string>E</string>
+			<string>T</string>
+			<string>A</string>
+			<string>K</string>
+			<string>G</string>
+			<string>S</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>Acaada</string>
+			<string>Etleeni</string>
+			<string>Talaata</string>
+			<string>Arbaqa</string>
+			<string>Kamiisi</string>
+			<string>Gumqata</string>
+			<string>Sabti</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>Qun</string>
+			<string>Nah</string>
+			<string>Cig</string>
+			<string>Agd</string>
+			<string>Cax</string>
+			<string>Qas</string>
+			<string>Qad</string>
+			<string>Leq</string>
+			<string>Way</string>
+			<string>Dit</string>
+			<string>Xim</string>
+			<string>Kax</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>Q</string>
+			<string>N</string>
+			<string>C</string>
+			<string>A</string>
+			<string>C</string>
+			<string>Q</string>
+			<string>Q</string>
+			<string>L</string>
+			<string>W</string>
+			<string>D</string>
+			<string>X</string>
+			<string>K</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>Qunxa Garablu</string>
+			<string>Kudo</string>
+			<string>Ciggilta Kudo</string>
+			<string>Agda Baxis</string>
+			<string>Caxah Alsa</string>
+			<string>Qasa Dirri</string>
+			<string>Qado Dirri</string>
+			<string>Liiqen</string>
+			<string>Waysu</string>
+			<string>Diteli</string>
+			<string>Ximoli</string>
+			<string>Kaxxa Garablu</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>Qun</string>
+			<string>Nah</string>
+			<string>Cig</string>
+			<string>Agd</string>
+			<string>Cax</string>
+			<string>Qas</string>
+			<string>Qad</string>
+			<string>Leq</string>
+			<string>Way</string>
+			<string>Dit</string>
+			<string>Xim</string>
+			<string>Kax</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>Q</string>
+			<string>N</string>
+			<string>C</string>
+			<string>A</string>
+			<string>C</string>
+			<string>Q</string>
+			<string>Q</string>
+			<string>L</string>
+			<string>W</string>
+			<string>D</string>
+			<string>X</string>
+			<string>K</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>Qunxa Garablu</string>
+			<string>Kudo</string>
+			<string>Ciggilta Kudo</string>
+			<string>Agda Baxis</string>
+			<string>Caxah Alsa</string>
+			<string>Qasa Dirri</string>
+			<string>Qado Dirri</string>
+			<string>Liiqen</string>
+			<string>Waysu</string>
+			<string>Diteli</string>
+			<string>Ximoli</string>
+			<string>Kaxxa Garablu</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>h:mm:ss a zzzz</string>
+		<key>timeFormats.long</key>
+		<string>h:mm:ss a z</string>
+		<key>timeFormats.medium</key>
+		<string>h:mm:ss a</string>
+		<key>timeFormats.short</key>
+		<string>h:mm a</string>
+	</dict>
+	<key>aa-DJ</key>
+	<dict>
+		<key>months.format.wide</key>
+		<array>
+			<string>Qunxa Garablu</string>
+			<string>Kudo</string>
+			<string>Ciggilta Kudo</string>
+			<string>Agda Baxis</string>
+			<string>Caxah Alsa</string>
+			<string>Qasa Dirri</string>
+			<string>Qado Dirri</string>
+			<string>Leqeeni</string>
+			<string>Waysu</string>
+			<string>Diteli</string>
+			<string>Ximoli</string>
+			<string>Kaxxa Garablu</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>Qunxa Garablu</string>
+			<string>Kudo</string>
+			<string>Ciggilta Kudo</string>
+			<string>Agda Baxis</string>
+			<string>Caxah Alsa</string>
+			<string>Qasa Dirri</string>
+			<string>Qado Dirri</string>
+			<string>Leqeeni</string>
+			<string>Waysu</string>
+			<string>Diteli</string>
+			<string>Ximoli</string>
+			<string>Kaxxa Garablu</string>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gd</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>m</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>f</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>DiD</string>
+			<string>DiL</string>
+			<string>DiM</string>
+			<string>DiC</string>
+			<string>Dia</string>
+			<string>Dih</string>
+			<string>DiS</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>D</string>
+			<string>L</string>
+			<string>M</string>
+			<string>C</string>
+			<string>A</string>
+			<string>H</string>
+			<string>S</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>DiDòmhnaich</string>
+			<string>DiLuain</string>
+			<string>DiMàirt</string>
+			<string>DiCiadain</string>
+			<string>Diardaoin</string>
+			<string>DihAoine</string>
+			<string>DiSathairne</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>DiD</string>
+			<string>DiL</string>
+			<string>DiM</string>
+			<string>DiC</string>
+			<string>Dia</string>
+			<string>Dih</string>
+			<string>DiS</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>D</string>
+			<string>L</string>
+			<string>M</string>
+			<string>C</string>
+			<string>A</string>
+			<string>H</string>
+			<string>S</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>DiDòmhnaich</string>
+			<string>DiLuain</string>
+			<string>DiMàirt</string>
+			<string>DiCiadain</string>
+			<string>Diardaoin</string>
+			<string>DihAoine</string>
+			<string>DiSathairne</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>Faoi</string>
+			<string>Gearr</string>
+			<string>Màrt</string>
+			<string>Gibl</string>
+			<string>Cèit</string>
+			<string>Ògmh</string>
+			<string>Iuch</string>
+			<string>Lùna</string>
+			<string>Sult</string>
+			<string>Dàmh</string>
+			<string>Samh</string>
+			<string>Dùbh</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>FA</string>
+			<string>GE</string>
+			<string>MÀ</string>
+			<string>GI</string>
+			<string>CÈ</string>
+			<string>ÒG</string>
+			<string>IU</string>
+			<string>LÙ</string>
+			<string>SU</string>
+			<string>DÀ</string>
+			<string>SA</string>
+			<string>DÙ</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>Am Faoilleach</string>
+			<string>An Gearran</string>
+			<string>Am Màrt</string>
+			<string>An Giblean</string>
+			<string>An Cèitean</string>
+			<string>An t-Ògmhios</string>
+			<string>An t-Iuchar</string>
+			<string>An Lùnastal</string>
+			<string>An t-Sultain</string>
+			<string>An Dàmhair</string>
+			<string>An t-Samhain</string>
+			<string>An Dùbhlachd</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>Faoi</string>
+			<string>Gearr</string>
+			<string>Màrt</string>
+			<string>Gibl</string>
+			<string>Cèit</string>
+			<string>Ògmh</string>
+			<string>Iuch</string>
+			<string>Lùna</string>
+			<string>Sult</string>
+			<string>Dàmh</string>
+			<string>Samh</string>
+			<string>Dùbh</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>FA</string>
+			<string>GE</string>
+			<string>MÀ</string>
+			<string>GI</string>
+			<string>CÈ</string>
+			<string>ÒG</string>
+			<string>IU</string>
+			<string>LÙ</string>
+			<string>SU</string>
+			<string>DÀ</string>
+			<string>SA</string>
+			<string>DÙ</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>Am Faoilleach</string>
+			<string>An Gearran</string>
+			<string>Am Màrt</string>
+			<string>An Giblean</string>
+			<string>An Cèitean</string>
+			<string>An t-Ògmhios</string>
+			<string>An t-Iuchar</string>
+			<string>An Lùnastal</string>
+			<string>An t-Sultain</string>
+			<string>An Dàmhair</string>
+			<string>An t-Samhain</string>
+			<string>An Dùbhlachd</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+</dict>
+</plist>

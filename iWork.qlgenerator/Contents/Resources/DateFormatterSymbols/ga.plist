@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ga</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>a.m.</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>p.m.</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>Domh</string>
+			<string>Luan</string>
+			<string>Máirt</string>
+			<string>Céad</string>
+			<string>Déar</string>
+			<string>Aoine</string>
+			<string>Sath</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>D</string>
+			<string>L</string>
+			<string>M</string>
+			<string>C</string>
+			<string>D</string>
+			<string>A</string>
+			<string>S</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>Dé Domhnaigh</string>
+			<string>Dé Luain</string>
+			<string>Dé Máirt</string>
+			<string>Dé Céadaoin</string>
+			<string>Déardaoin</string>
+			<string>Dé hAoine</string>
+			<string>Dé Sathairn</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>Domh</string>
+			<string>Luan</string>
+			<string>Máirt</string>
+			<string>Céad</string>
+			<string>Déar</string>
+			<string>Aoine</string>
+			<string>Sath</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>D</string>
+			<string>L</string>
+			<string>M</string>
+			<string>C</string>
+			<string>D</string>
+			<string>A</string>
+			<string>S</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>Dé Domhnaigh</string>
+			<string>Dé Luain</string>
+			<string>Dé Máirt</string>
+			<string>Dé Céadaoin</string>
+			<string>Déardaoin</string>
+			<string>Dé hAoine</string>
+			<string>Dé Sathairn</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>Ean</string>
+			<string>Feabh</string>
+			<string>Márta</string>
+			<string>Aib</string>
+			<string>Beal</string>
+			<string>Meith</string>
+			<string>Iúil</string>
+			<string>Lún</string>
+			<string>MFómh</string>
+			<string>DFómh</string>
+			<string>Samh</string>
+			<string>Noll</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>E</string>
+			<string>F</string>
+			<string>M</string>
+			<string>A</string>
+			<string>B</string>
+			<string>M</string>
+			<string>I</string>
+			<string>L</string>
+			<string>M</string>
+			<string>D</string>
+			<string>S</string>
+			<string>N</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>Eanáir</string>
+			<string>Feabhra</string>
+			<string>Márta</string>
+			<string>Aibreán</string>
+			<string>Bealtaine</string>
+			<string>Meitheamh</string>
+			<string>Iúil</string>
+			<string>Lúnasa</string>
+			<string>Meán Fómhair</string>
+			<string>Deireadh Fómhair</string>
+			<string>Samhain</string>
+			<string>Nollaig</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>Ean</string>
+			<string>Feabh</string>
+			<string>Márta</string>
+			<string>Aib</string>
+			<string>Beal</string>
+			<string>Meith</string>
+			<string>Iúil</string>
+			<string>Lún</string>
+			<string>MFómh</string>
+			<string>DFómh</string>
+			<string>Samh</string>
+			<string>Noll</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>E</string>
+			<string>F</string>
+			<string>M</string>
+			<string>A</string>
+			<string>B</string>
+			<string>M</string>
+			<string>I</string>
+			<string>L</string>
+			<string>M</string>
+			<string>D</string>
+			<string>S</string>
+			<string>N</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>Eanáir</string>
+			<string>Feabhra</string>
+			<string>Márta</string>
+			<string>Aibreán</string>
+			<string>Bealtaine</string>
+			<string>Meitheamh</string>
+			<string>Iúil</string>
+			<string>Lúnasa</string>
+			<string>Meán Fómhair</string>
+			<string>Deireadh Fómhair</string>
+			<string>Samhain</string>
+			<string>Nollaig</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+</dict>
+</plist>

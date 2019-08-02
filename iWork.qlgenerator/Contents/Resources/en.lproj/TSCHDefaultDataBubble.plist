@@ -1,0 +1,71 @@
+{
+	Model = {};
+	Grid = {
+		"_LOCALIZABLE_" = {
+			RowNames = (
+				April,
+				May,
+				June,
+				July,
+				August,
+				September,
+				October,
+				November,
+				December,
+			);
+			ColumnNames = (
+				April,
+				May,
+				June,
+			);
+		};
+		Values = (
+			(
+				1,
+				2,
+				20,
+			),
+			(
+				3,
+				4,
+				34,
+			),
+			(
+				5,
+				5,
+				12,
+			),
+			(
+				6,
+				8,
+				50,
+			),
+			(
+				8,
+				13,
+				70,
+			),
+			(
+				9,
+				16,
+				35,
+			),
+			(
+				11,
+				18,
+				68,
+			),
+			(
+				12,
+				20,
+				22,
+			),
+			(
+				15,
+				24,
+				35,
+			),
+		);
+		Direction = ByColumn;
+	};
+}

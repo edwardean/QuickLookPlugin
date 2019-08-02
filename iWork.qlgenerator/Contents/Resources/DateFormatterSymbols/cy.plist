@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cy</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>AM</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>PM</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>Sul</string>
+			<string>Llun</string>
+			<string>Maw</string>
+			<string>Mer</string>
+			<string>Iau</string>
+			<string>Gwen</string>
+			<string>Sad</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>S</string>
+			<string>Ll</string>
+			<string>M</string>
+			<string>M</string>
+			<string>I</string>
+			<string>G</string>
+			<string>S</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>Dydd Sul</string>
+			<string>Dydd Llun</string>
+			<string>Dydd Mawrth</string>
+			<string>Dydd Mercher</string>
+			<string>Dydd Iau</string>
+			<string>Dydd Gwener</string>
+			<string>Dydd Sadwrn</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>Sul</string>
+			<string>Llun</string>
+			<string>Maw</string>
+			<string>Mer</string>
+			<string>Iau</string>
+			<string>Gwe</string>
+			<string>Sad</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>S</string>
+			<string>Ll</string>
+			<string>M</string>
+			<string>M</string>
+			<string>I</string>
+			<string>G</string>
+			<string>S</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>Dydd Sul</string>
+			<string>Dydd Llun</string>
+			<string>Dydd Mawrth</string>
+			<string>Dydd Mercher</string>
+			<string>Dydd Iau</string>
+			<string>Dydd Gwener</string>
+			<string>Dydd Sadwrn</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>Ion</string>
+			<string>Chwef</string>
+			<string>Mawrth</string>
+			<string>Ebrill</string>
+			<string>Mai</string>
+			<string>Meh</string>
+			<string>Gorff</string>
+			<string>Awst</string>
+			<string>Medi</string>
+			<string>Hyd</string>
+			<string>Tach</string>
+			<string>Rhag</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>I</string>
+			<string>Ch</string>
+			<string>M</string>
+			<string>E</string>
+			<string>M</string>
+			<string>M</string>
+			<string>G</string>
+			<string>A</string>
+			<string>M</string>
+			<string>H</string>
+			<string>T</string>
+			<string>Rh</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>Ionawr</string>
+			<string>Chwefror</string>
+			<string>Mawrth</string>
+			<string>Ebrill</string>
+			<string>Mai</string>
+			<string>Mehefin</string>
+			<string>Gorffennaf</string>
+			<string>Awst</string>
+			<string>Medi</string>
+			<string>Hydref</string>
+			<string>Tachwedd</string>
+			<string>Rhagfyr</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>Ion</string>
+			<string>Chw</string>
+			<string>Maw</string>
+			<string>Ebr</string>
+			<string>Mai</string>
+			<string>Meh</string>
+			<string>Gor</string>
+			<string>Awst</string>
+			<string>Medi</string>
+			<string>Hyd</string>
+			<string>Tach</string>
+			<string>Rhag</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>I</string>
+			<string>Ch</string>
+			<string>M</string>
+			<string>E</string>
+			<string>M</string>
+			<string>M</string>
+			<string>G</string>
+			<string>A</string>
+			<string>M</string>
+			<string>H</string>
+			<string>T</string>
+			<string>Rh</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>Ionawr</string>
+			<string>Chwefror</string>
+			<string>Mawrth</string>
+			<string>Ebrill</string>
+			<string>Mai</string>
+			<string>Mehefin</string>
+			<string>Gorffennaf</string>
+			<string>Awst</string>
+			<string>Medi</string>
+			<string>Hydref</string>
+			<string>Tachwedd</string>
+			<string>Rhagfyr</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+</dict>
+</plist>

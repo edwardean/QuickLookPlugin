@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>en</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, MMMM d, y</string>
+		<key>dateFormats.long</key>
+		<string>MMMM d, y</string>
+		<key>dateFormats.medium</key>
+		<string>MMM d, y</string>
+		<key>dateFormats.short</key>
+		<string>M/d/yy</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>AM</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>PM</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>Sun</string>
+			<string>Mon</string>
+			<string>Tue</string>
+			<string>Wed</string>
+			<string>Thu</string>
+			<string>Fri</string>
+			<string>Sat</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>S</string>
+			<string>M</string>
+			<string>T</string>
+			<string>W</string>
+			<string>T</string>
+			<string>F</string>
+			<string>S</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>Sunday</string>
+			<string>Monday</string>
+			<string>Tuesday</string>
+			<string>Wednesday</string>
+			<string>Thursday</string>
+			<string>Friday</string>
+			<string>Saturday</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>Sun</string>
+			<string>Mon</string>
+			<string>Tue</string>
+			<string>Wed</string>
+			<string>Thu</string>
+			<string>Fri</string>
+			<string>Sat</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>S</string>
+			<string>M</string>
+			<string>T</string>
+			<string>W</string>
+			<string>T</string>
+			<string>F</string>
+			<string>S</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>Sunday</string>
+			<string>Monday</string>
+			<string>Tuesday</string>
+			<string>Wednesday</string>
+			<string>Thursday</string>
+			<string>Friday</string>
+			<string>Saturday</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>Jan</string>
+			<string>Feb</string>
+			<string>Mar</string>
+			<string>Apr</string>
+			<string>May</string>
+			<string>Jun</string>
+			<string>Jul</string>
+			<string>Aug</string>
+			<string>Sep</string>
+			<string>Oct</string>
+			<string>Nov</string>
+			<string>Dec</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>J</string>
+			<string>F</string>
+			<string>M</string>
+			<string>A</string>
+			<string>M</string>
+			<string>J</string>
+			<string>J</string>
+			<string>A</string>
+			<string>S</string>
+			<string>O</string>
+			<string>N</string>
+			<string>D</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>January</string>
+			<string>February</string>
+			<string>March</string>
+			<string>April</string>
+			<string>May</string>
+			<string>June</string>
+			<string>July</string>
+			<string>August</string>
+			<string>September</string>
+			<string>October</string>
+			<string>November</string>
+			<string>December</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>Jan</string>
+			<string>Feb</string>
+			<string>Mar</string>
+			<string>Apr</string>
+			<string>May</string>
+			<string>Jun</string>
+			<string>Jul</string>
+			<string>Aug</string>
+			<string>Sep</string>
+			<string>Oct</string>
+			<string>Nov</string>
+			<string>Dec</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>J</string>
+			<string>F</string>
+			<string>M</string>
+			<string>A</string>
+			<string>M</string>
+			<string>J</string>
+			<string>J</string>
+			<string>A</string>
+			<string>S</string>
+			<string>O</string>
+			<string>N</string>
+			<string>D</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>January</string>
+			<string>February</string>
+			<string>March</string>
+			<string>April</string>
+			<string>May</string>
+			<string>June</string>
+			<string>July</string>
+			<string>August</string>
+			<string>September</string>
+			<string>October</string>
+			<string>November</string>
+			<string>December</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>h:mm:ss a zzzz</string>
+		<key>timeFormats.long</key>
+		<string>h:mm:ss a z</string>
+		<key>timeFormats.medium</key>
+		<string>h:mm:ss a</string>
+		<key>timeFormats.short</key>
+		<string>h:mm a</string>
+	</dict>
+	<key>en-150</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMM y</string>
+		<key>dateFormats.medium</key>
+		<string>dd MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/yy</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH 'h' mm 'min' ss 's' zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-AU</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>d/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+	</dict>
+	<key>en-BE</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMM y</string>
+		<key>dateFormats.medium</key>
+		<string>dd MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/yy</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH 'h' mm 'min' ss 's' zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-BW</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE dd MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>dd MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>dd MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/yy</string>
+	</dict>
+	<key>en-BZ</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE dd MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>dd MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>dd-MMM-y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/yy</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-CA</key>
+	<dict>
+		<key>dateFormats.short</key>
+		<string>y-MM-dd</string>
+	</dict>
+	<key>en-DG</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-FK</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-GB</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-GG</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-GI</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-HK</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM, y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM, y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM, y</string>
+		<key>dateFormats.short</key>
+		<string>d/M/yy</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+	</dict>
+	<key>en-IE</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>a.m.</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>p.m.</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-IM</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-IN</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>dd-MMM-y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/yy</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+	</dict>
+	<key>en-IO</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-JE</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-JM</key>
+	<dict>
+		<key>dateFormats.short</key>
+		<string>d/M/yy</string>
+	</dict>
+	<key>en-MO</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-MT</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>dd MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>dd MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-NZ</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d/MM/y</string>
+		<key>dateFormats.short</key>
+		<string>d/MM/yy</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+	</dict>
+	<key>en-PK</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>dd-MMM-y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+	</dict>
+	<key>en-SG</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>d/M/yy</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+	</dict>
+	<key>en-SH</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-US-POSIX</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, MMMM d, y</string>
+		<key>dateFormats.long</key>
+		<string>MMMM d, y</string>
+		<key>dateFormats.medium</key>
+		<string>MMM d, y</string>
+		<key>dateFormats.short</key>
+		<string>M/d/yy</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>AM</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>PM</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>Sun</string>
+			<string>Mon</string>
+			<string>Tue</string>
+			<string>Wed</string>
+			<string>Thu</string>
+			<string>Fri</string>
+			<string>Sat</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>S</string>
+			<string>M</string>
+			<string>T</string>
+			<string>W</string>
+			<string>T</string>
+			<string>F</string>
+			<string>S</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>Sunday</string>
+			<string>Monday</string>
+			<string>Tuesday</string>
+			<string>Wednesday</string>
+			<string>Thursday</string>
+			<string>Friday</string>
+			<string>Saturday</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>Sun</string>
+			<string>Mon</string>
+			<string>Tue</string>
+			<string>Wed</string>
+			<string>Thu</string>
+			<string>Fri</string>
+			<string>Sat</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>S</string>
+			<string>M</string>
+			<string>T</string>
+			<string>W</string>
+			<string>T</string>
+			<string>F</string>
+			<string>S</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>Sunday</string>
+			<string>Monday</string>
+			<string>Tuesday</string>
+			<string>Wednesday</string>
+			<string>Thursday</string>
+			<string>Friday</string>
+			<string>Saturday</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>Jan</string>
+			<string>Feb</string>
+			<string>Mar</string>
+			<string>Apr</string>
+			<string>May</string>
+			<string>Jun</string>
+			<string>Jul</string>
+			<string>Aug</string>
+			<string>Sep</string>
+			<string>Oct</string>
+			<string>Nov</string>
+			<string>Dec</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>J</string>
+			<string>F</string>
+			<string>M</string>
+			<string>A</string>
+			<string>M</string>
+			<string>J</string>
+			<string>J</string>
+			<string>A</string>
+			<string>S</string>
+			<string>O</string>
+			<string>N</string>
+			<string>D</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>January</string>
+			<string>February</string>
+			<string>March</string>
+			<string>April</string>
+			<string>May</string>
+			<string>June</string>
+			<string>July</string>
+			<string>August</string>
+			<string>September</string>
+			<string>October</string>
+			<string>November</string>
+			<string>December</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>Jan</string>
+			<string>Feb</string>
+			<string>Mar</string>
+			<string>Apr</string>
+			<string>May</string>
+			<string>Jun</string>
+			<string>Jul</string>
+			<string>Aug</string>
+			<string>Sep</string>
+			<string>Oct</string>
+			<string>Nov</string>
+			<string>Dec</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>J</string>
+			<string>F</string>
+			<string>M</string>
+			<string>A</string>
+			<string>M</string>
+			<string>J</string>
+			<string>J</string>
+			<string>A</string>
+			<string>S</string>
+			<string>O</string>
+			<string>N</string>
+			<string>D</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>January</string>
+			<string>February</string>
+			<string>March</string>
+			<string>April</string>
+			<string>May</string>
+			<string>June</string>
+			<string>July</string>
+			<string>August</string>
+			<string>September</string>
+			<string>October</string>
+			<string>November</string>
+			<string>December</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>h:mm:ss a zzzz</string>
+		<key>timeFormats.long</key>
+		<string>h:mm:ss a z</string>
+		<key>timeFormats.medium</key>
+		<string>h:mm:ss a</string>
+		<key>timeFormats.short</key>
+		<string>h:mm a</string>
+	</dict>
+	<key>en-VG</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>am</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pm</string>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>en-ZA</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE dd MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>dd MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>dd MMM y</string>
+		<key>dateFormats.short</key>
+		<string>y/MM/dd</string>
+	</dict>
+	<key>en-ZW</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE dd MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>dd MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>dd MMM,y</string>
+		<key>dateFormats.short</key>
+		<string>d/M/y</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>az</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>d MMMM y, EEEE</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd.MM.yy</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>AM</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>PM</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>B.</string>
+			<string>B.E.</string>
+			<string>Ç.A.</string>
+			<string>Ç.</string>
+			<string>C.A.</string>
+			<string>C</string>
+			<string>Ş.</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>7</string>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+			<string>5</string>
+			<string>6</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>bazar</string>
+			<string>bazar ertəsi</string>
+			<string>çərşənbə axşamı</string>
+			<string>çərşənbə</string>
+			<string>cümə axşamı</string>
+			<string>cümə</string>
+			<string>şənbə</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>B.</string>
+			<string>B.E.</string>
+			<string>Ç.A.</string>
+			<string>Ç.</string>
+			<string>C.A.</string>
+			<string>C</string>
+			<string>Ş.</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>7</string>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+			<string>5</string>
+			<string>6</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>bazar</string>
+			<string>bazar ertəsi</string>
+			<string>çərşənbə axşamı</string>
+			<string>çərşənbə</string>
+			<string>cümə axşamı</string>
+			<string>cümə</string>
+			<string>şənbə</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>yan</string>
+			<string>fev</string>
+			<string>mar</string>
+			<string>apr</string>
+			<string>may</string>
+			<string>iyn</string>
+			<string>iyl</string>
+			<string>avq</string>
+			<string>sen</string>
+			<string>okt</string>
+			<string>noy</string>
+			<string>dek</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+			<string>5</string>
+			<string>6</string>
+			<string>7</string>
+			<string>8</string>
+			<string>9</string>
+			<string>10</string>
+			<string>11</string>
+			<string>12</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>yanvar</string>
+			<string>fevral</string>
+			<string>mart</string>
+			<string>aprel</string>
+			<string>may</string>
+			<string>iyun</string>
+			<string>iyul</string>
+			<string>avqust</string>
+			<string>sentyabr</string>
+			<string>oktyabr</string>
+			<string>noyabr</string>
+			<string>dekabr</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>yan</string>
+			<string>fev</string>
+			<string>mar</string>
+			<string>apr</string>
+			<string>may</string>
+			<string>iyn</string>
+			<string>iyl</string>
+			<string>avq</string>
+			<string>sen</string>
+			<string>okt</string>
+			<string>noy</string>
+			<string>dek</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+			<string>5</string>
+			<string>6</string>
+			<string>7</string>
+			<string>8</string>
+			<string>9</string>
+			<string>10</string>
+			<string>11</string>
+			<string>12</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>Yanvar</string>
+			<string>Fevral</string>
+			<string>Mart</string>
+			<string>Aprel</string>
+			<string>May</string>
+			<string>İyun</string>
+			<string>İyul</string>
+			<string>Avqust</string>
+			<string>Sentyabr</string>
+			<string>Oktyabr</string>
+			<string>Noyabr</string>
+			<string>Dekabr</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+	<key>az-Cyrl</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d, MMMM, y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM, y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM, y</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>базар</string>
+			<string>базар ертәси</string>
+			<string>чәршәнбә ахшамы</string>
+			<string>чәршәнбә</string>
+			<string>ҹүмә ахшамы</string>
+			<string>ҹүмә</string>
+			<string>шәнбә</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>базар</string>
+			<string>базар ертәси</string>
+			<string>чәршәнбә ахшамы</string>
+			<string>чәршәнбә</string>
+			<string>ҹүмә ахшамы</string>
+			<string>ҹүмә</string>
+			<string>шәнбә</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>базар</string>
+			<string>базар ертәси</string>
+			<string>чәршәнбә ахшамы</string>
+			<string>чәршәнбә</string>
+			<string>ҹүмә ахшамы</string>
+			<string>ҹүмә</string>
+			<string>шәнбә</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>базар</string>
+			<string>базар ертәси</string>
+			<string>чәршәнбә ахшамы</string>
+			<string>чәршәнбә</string>
+			<string>ҹүмә ахшамы</string>
+			<string>ҹүмә</string>
+			<string>шәнбә</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>јанвар</string>
+			<string>феврал</string>
+			<string>март</string>
+			<string>апрел</string>
+			<string>май</string>
+			<string>ијун</string>
+			<string>ијул</string>
+			<string>август</string>
+			<string>сентјабр</string>
+			<string>октјабр</string>
+			<string>нојабр</string>
+			<string>декабр</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>јанвар</string>
+			<string>феврал</string>
+			<string>март</string>
+			<string>апрел</string>
+			<string>май</string>
+			<string>ијун</string>
+			<string>ијул</string>
+			<string>август</string>
+			<string>сентјабр</string>
+			<string>октјабр</string>
+			<string>нојабр</string>
+			<string>декабр</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>јанвар</string>
+			<string>феврал</string>
+			<string>март</string>
+			<string>апрел</string>
+			<string>май</string>
+			<string>ијун</string>
+			<string>ијул</string>
+			<string>август</string>
+			<string>сентјабр</string>
+			<string>октјабр</string>
+			<string>нојабр</string>
+			<string>декабр</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>јанвар</string>
+			<string>феврал</string>
+			<string>март</string>
+			<string>апрел</string>
+			<string>май</string>
+			<string>ијун</string>
+			<string>ијул</string>
+			<string>август</string>
+			<string>сентјабр</string>
+			<string>октјабр</string>
+			<string>нојабр</string>
+			<string>декабр</string>
+		</array>
+	</dict>
+</dict>
+</plist>

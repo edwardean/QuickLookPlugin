@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sq</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, dd MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>dd MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>dd/MM/y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/yy</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>paradite</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>pasdite</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>Die</string>
+			<string>Hën</string>
+			<string>Mar</string>
+			<string>Mër</string>
+			<string>Enj</string>
+			<string>Pre</string>
+			<string>Sht</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>D</string>
+			<string>H</string>
+			<string>M</string>
+			<string>M</string>
+			<string>E</string>
+			<string>P</string>
+			<string>S</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>e diel</string>
+			<string>e hënë</string>
+			<string>e martë</string>
+			<string>e mërkurë</string>
+			<string>e enjte</string>
+			<string>e premte</string>
+			<string>e shtunë</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>Die</string>
+			<string>Hën</string>
+			<string>Mar</string>
+			<string>Mër</string>
+			<string>Enj</string>
+			<string>Pre</string>
+			<string>Sht</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>D</string>
+			<string>H</string>
+			<string>M</string>
+			<string>M</string>
+			<string>E</string>
+			<string>P</string>
+			<string>S</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>e diel</string>
+			<string>e hënë</string>
+			<string>e martë</string>
+			<string>e mërkurë</string>
+			<string>e enjte</string>
+			<string>e premte</string>
+			<string>e shtunë</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>Jan</string>
+			<string>Shk</string>
+			<string>Mar</string>
+			<string>Pri</string>
+			<string>Maj</string>
+			<string>Qer</string>
+			<string>Kor</string>
+			<string>Gsh</string>
+			<string>Sht</string>
+			<string>Tet</string>
+			<string>Nën</string>
+			<string>Dhj</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>J</string>
+			<string>S</string>
+			<string>M</string>
+			<string>P</string>
+			<string>M</string>
+			<string>Q</string>
+			<string>K</string>
+			<string>G</string>
+			<string>S</string>
+			<string>T</string>
+			<string>N</string>
+			<string>D</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>janar</string>
+			<string>shkurt</string>
+			<string>mars</string>
+			<string>prill</string>
+			<string>maj</string>
+			<string>qershor</string>
+			<string>korrik</string>
+			<string>gusht</string>
+			<string>shtator</string>
+			<string>tetor</string>
+			<string>nëntor</string>
+			<string>dhjetor</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>Jan</string>
+			<string>Shk</string>
+			<string>Mar</string>
+			<string>Pri</string>
+			<string>Maj</string>
+			<string>Qer</string>
+			<string>Kor</string>
+			<string>Gsh</string>
+			<string>Sht</string>
+			<string>Tet</string>
+			<string>Nën</string>
+			<string>Dhj</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>J</string>
+			<string>S</string>
+			<string>M</string>
+			<string>P</string>
+			<string>M</string>
+			<string>Q</string>
+			<string>K</string>
+			<string>G</string>
+			<string>S</string>
+			<string>T</string>
+			<string>N</string>
+			<string>D</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>janar</string>
+			<string>shkurt</string>
+			<string>mars</string>
+			<string>prill</string>
+			<string>maj</string>
+			<string>qershor</string>
+			<string>korrik</string>
+			<string>gusht</string>
+			<string>shtator</string>
+			<string>tetor</string>
+			<string>nëntor</string>
+			<string>dhjetor</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>HH:mm:ss zzzz</string>
+		<key>timeFormats.long</key>
+		<string>HH:mm:ss z</string>
+		<key>timeFormats.medium</key>
+		<string>HH:mm:ss</string>
+		<key>timeFormats.short</key>
+		<string>HH:mm</string>
+	</dict>
+</dict>
+</plist>

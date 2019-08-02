@@ -1,0 +1,23 @@
+//
+//  TSDGLCurvedShadow_CurveDisplacement.cikernel
+//
+//  Copyright (c) 2015 Apple Inc. All rights reserved.
+//
+
+kernel vec4 curveDisplacement(sampler src, vec4 samplerExtent, float curveAmount, float padding)
+{
+    vec2 size =  samplerExtent.zw;
+    vec2 coord = destCoord() - samplerExtent.xy;
+
+    float curveOffset = 2.0*(coord.x - padding)/(size.x - padding * 2.0) - 1.0;
+    curveOffset = curveOffset*curveOffset;
+
+    curveOffset += (curveAmount < 0.0) ? -1.0 : 0.0;
+
+    float coordAdjust = curveOffset * curveAmount;
+
+    vec2 newSampleCoord = samplerCoord(src) + vec2(0,coordAdjust);
+
+    vec4 result = sample(src, newSampleCoord);
+    return result;
+}

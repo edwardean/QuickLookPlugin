@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>17A405001</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Numbers document</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.numbers.numbers</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Numbers document</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.numbers.sffnumbers</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Numbers document</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.numbers.numbers-tef</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Numbers template</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.numbers.sfftemplate</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Numbers template</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.numbers.template</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Pages Document</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.pages.pages</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Pages Document</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.pages.sffpages</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Pages Document</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.pages.pages-tef</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Pages template</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.pages.sfftemplate</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Pages template</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.pages.template</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Keynote Document</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.keynote.key</string>
+				<string>com.apple.keynote.key</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Keynote Document</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.keynote.sffkey</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Keynote Document</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.keynote.key-tef</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Keynote theme</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.keynote.sffkth</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Keynote theme</string>
+			<key>CFBundleTypeRole</key>
+			<string>QLGenerator</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.apple.iwork.keynote.kth</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>iWork</string>
+	<key>CFBundleGetInfoString</key>
+	<string>iWork QuickLook 6.0 (203), Copyright 2007-2017 Apple Inc.</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.iWork.iWorkQuickLookGenerator</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>iWork QuickLook Generator</string>
+	<key>CFBundleShortVersionString</key>
+	<string>6.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>203</string>
+	<key>CFPlugInDynamicRegisterFunction</key>
+	<string></string>
+	<key>CFPlugInDynamicRegistration</key>
+	<string>NO</string>
+	<key>CFPlugInFactories</key>
+	<dict>
+		<key>C744BF8F-9CF1-4404-90E0-41C676128B7A</key>
+		<string>QuickLookGeneratorPluginFactory</string>
+	</dict>
+	<key>CFPlugInTypes</key>
+	<dict>
+		<key>5E2D9680-5022-40FA-B806-43349622E5B9</key>
+		<array>
+			<string>C744BF8F-9CF1-4404-90E0-41C676128B7A</string>
+		</array>
+	</dict>
+	<key>CFPlugInUnloadFunction</key>
+	<string></string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>10L213p</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>10.14</string>
+	<key>DTSDKBuild</key>
+	<string>18B40a</string>
+	<key>DTSDKName</key>
+	<string>macosx10.14internal</string>
+	<key>DTXcode</key>
+	<string>1000</string>
+	<key>DTXcodeBuild</key>
+	<string>10L213p</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.14</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2007-2017 Apple Inc.</string>
+	<key>QLNeedsToBeRunInMainThread</key>
+	<true/>
+	<key>QLPreviewHeight</key>
+	<real>600</real>
+	<key>QLPreviewWidth</key>
+	<real>800</real>
+	<key>QLSandbox</key>
+	<true/>
+	<key>QLSupportsConcurrentRequests</key>
+	<false/>
+	<key>QLThumbnailMinimumSize</key>
+	<integer>16</integer>
+	<key>UTExportedTypeDeclarations</key>
+	<array/>
+</dict>
+</plist>

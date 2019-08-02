@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>so</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, MMMM dd, y</string>
+		<key>dateFormats.long</key>
+		<string>dd MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>dd-MMM-y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/yy</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>sn.</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>gn.</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>Axd</string>
+			<string>Isn</string>
+			<string>Tal</string>
+			<string>Arb</string>
+			<string>Kha</string>
+			<string>Jim</string>
+			<string>Sab</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>A</string>
+			<string>I</string>
+			<string>T</string>
+			<string>A</string>
+			<string>K</string>
+			<string>J</string>
+			<string>S</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>Axad</string>
+			<string>Isniin</string>
+			<string>Talaado</string>
+			<string>Arbaco</string>
+			<string>Khamiis</string>
+			<string>Jimco</string>
+			<string>Sabti</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>Axd</string>
+			<string>Isn</string>
+			<string>Tal</string>
+			<string>Arb</string>
+			<string>Kha</string>
+			<string>Jim</string>
+			<string>Sab</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>A</string>
+			<string>I</string>
+			<string>T</string>
+			<string>A</string>
+			<string>K</string>
+			<string>J</string>
+			<string>S</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>Axad</string>
+			<string>Isniin</string>
+			<string>Talaado</string>
+			<string>Arbaco</string>
+			<string>Khamiis</string>
+			<string>Jimco</string>
+			<string>Sabti</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>Kob</string>
+			<string>Lab</string>
+			<string>Sad</string>
+			<string>Afr</string>
+			<string>Sha</string>
+			<string>Lix</string>
+			<string>Tod</string>
+			<string>Sid</string>
+			<string>Sag</string>
+			<string>Tob</string>
+			<string>KIT</string>
+			<string>LIT</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>K</string>
+			<string>L</string>
+			<string>S</string>
+			<string>A</string>
+			<string>S</string>
+			<string>L</string>
+			<string>T</string>
+			<string>S</string>
+			<string>S</string>
+			<string>T</string>
+			<string>K</string>
+			<string>L</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>Bisha Koobaad</string>
+			<string>Bisha Labaad</string>
+			<string>Bisha Saddexaad</string>
+			<string>Bisha Afraad</string>
+			<string>Bisha Shanaad</string>
+			<string>Bisha Lixaad</string>
+			<string>Bisha Todobaad</string>
+			<string>Bisha Sideedaad</string>
+			<string>Bisha Sagaalaad</string>
+			<string>Bisha Tobnaad</string>
+			<string>Bisha Kow iyo Tobnaad</string>
+			<string>Bisha Laba iyo Tobnaad</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>Kob</string>
+			<string>Lab</string>
+			<string>Sad</string>
+			<string>Afr</string>
+			<string>Sha</string>
+			<string>Lix</string>
+			<string>Tod</string>
+			<string>Sid</string>
+			<string>Sag</string>
+			<string>Tob</string>
+			<string>KIT</string>
+			<string>LIT</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>K</string>
+			<string>L</string>
+			<string>S</string>
+			<string>A</string>
+			<string>S</string>
+			<string>L</string>
+			<string>T</string>
+			<string>S</string>
+			<string>S</string>
+			<string>T</string>
+			<string>K</string>
+			<string>L</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>Bisha Koobaad</string>
+			<string>Bisha Labaad</string>
+			<string>Bisha Saddexaad</string>
+			<string>Bisha Afraad</string>
+			<string>Bisha Shanaad</string>
+			<string>Bisha Lixaad</string>
+			<string>Bisha Todobaad</string>
+			<string>Bisha Sideedaad</string>
+			<string>Bisha Sagaalaad</string>
+			<string>Bisha Tobnaad</string>
+			<string>Bisha Kow iyo Tobnaad</string>
+			<string>Bisha Laba iyo Tobnaad</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>h:mm:ss a zzzz</string>
+		<key>timeFormats.long</key>
+		<string>h:mm:ss a z</string>
+		<key>timeFormats.medium</key>
+		<string>h:mm:ss a</string>
+		<key>timeFormats.short</key>
+		<string>h:mm a</string>
+	</dict>
+</dict>
+</plist>

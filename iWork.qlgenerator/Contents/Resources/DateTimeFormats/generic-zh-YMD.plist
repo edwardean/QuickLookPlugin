@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptedDateFormats</key>
+	<array>
+		<string>MM.dd</string>
+		<string>M.d</string>
+		<string>MM-dd</string>
+		<string>M-d</string>
+		<string>MM/dd</string>
+		<string>M/d</string>
+		<string>yy.M.d</string>
+		<string>yy.MM.dd</string>
+		<string>yyyy.M.d</string>
+		<string>yyyy.MM.dd</string>
+		<string>yy-M-d</string>
+		<string>yy-MM-dd</string>
+		<string>yyyy-M-d</string>
+		<string>yyyy-MM-dd</string>
+		<string>yy/M/d</string>
+		<string>yy/MM/dd</string>
+		<string>yyyy/M/d</string>
+		<string>yyyy/MM/dd</string>
+		<string>yyyy.MM</string>
+		<string>yyyy-MM</string>
+		<string>yyyy/MM</string>
+		<string>y年M月d日</string>
+		<string>yy年M月d日</string>
+		<string>yy年MM月dd日</string>
+		<string>yyyy年M月d日</string>
+		<string>yyyy年MM月dd日</string>
+		<string>y年MMMd日</string>
+		<string>yy年MMMd日</string>
+		<string>yyyy年MMMd日</string>
+		<string>M月d日</string>
+		<string>MM月dd日</string>
+		<string>yy年MM月</string>
+		<string>yyyy年MM月</string>
+		<string>yyyy年</string>
+		<string>MMMd日</string>
+		<string>yy年MMM</string>
+		<string>yyyy年MMM</string>
+		<string>M月</string>
+		<string>d日</string>
+		<string>M月d日 EEEE</string>
+		<string>M月d日 EEE</string>
+		<string>y年M月d日 EEE</string>
+		<string>yy年M月d日 EEE</string>
+		<string>yy年MM月dd日 EEE</string>
+		<string>yyyy年M月d日 EEE</string>
+		<string>yyyy年MM月dd日 EEE</string>
+		<string>y年MMMd日 EEE</string>
+		<string>yy年MMMd日 EEE</string>
+		<string>yyyy年MMMd日 EEE</string>
+		<string>y年M月d日 EEEE</string>
+		<string>yy年M月d日 EEEE</string>
+		<string>yy年MM月dd日 EEEE</string>
+		<string>yyyy年M月d日 EEEE</string>
+		<string>yyyy年MM月dd日 EEEE</string>
+		<string>y年d日 EEEE</string>
+		<string>yy年d日 EEEE</string>
+		<string>yyyy年d日 EEEE</string>
+	</array>
+	<key>AcceptedTimeFormats</key>
+	<array>
+		<string>H:mm</string>
+		<string>HH:mm</string>
+		<string>H:mm:ss</string>
+		<string>HH:mm:ss</string>
+		<string>ah:mm</string>
+		<string>ahh:mm</string>
+		<string>ah:mm:ss</string>
+		<string>H时</string>
+		<string>H时mm分</string>
+		<string>H时mm分ss秒</string>
+		<string>ah时</string>
+		<string>ah时mm分</string>
+		<string>ah时mm分ss秒</string>
+	</array>
+	<key>DisplayedDateFormats</key>
+	<array>
+		<string>yyyy年M月d日 EEEE</string>
+		<string>yyyy年M月d日 EEE</string>
+		<string>yyyy年M月d日</string>
+		<string>yyyy年M月</string>
+		<string>yyyy年</string>
+		<string>yyyy</string>
+		<string>M月d日 EEEE</string>
+		<string>M月d日 EEE</string>
+		<string>M月d日</string>
+		<string>M月</string>
+		<string>d日</string>
+		<string>yyyy-MM-dd</string>
+		<string>yyyy-M-d</string>
+		<string>yy-MM-dd</string>
+		<string>yy-M-d</string>
+		<string>MM-dd</string>
+		<string>M-d</string>
+		<string>yyyy/MM/dd</string>
+		<string>yyyy/M/d</string>
+		<string>yy/MM/dd</string>
+		<string>yy/M/d</string>
+		<string>MM/dd</string>
+		<string>M/d</string>
+		<string>yyyy.MM.dd</string>
+		<string>yyyy.M.d</string>
+		<string>yy.MM.dd</string>
+		<string>yy.M.d</string>
+		<string>MM.dd</string>
+		<string>M.d</string>
+	</array>
+	<key>DisplayedTimeFormats</key>
+	<array>
+		<string>ah时mm分ss秒</string>
+		<string>ah时mm分</string>
+		<string>ah时</string>
+		<string>ah:mm:ss</string>
+		<string>ah:mm</string>
+		<string>H时mm分ss秒</string>
+		<string>H时mm分</string>
+		<string>H时</string>
+		<string>H:mm:ss</string>
+		<string>H:mm</string>
+	</array>
+	<key>FileName</key>
+	<string>generic-zh-YMD.plist</string>
+</dict>
+</plist>

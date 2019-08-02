@@ -1,0 +1,30 @@
+//
+//  TSDGLShadow_BlurBlend.cikernel
+//
+//  Copyright (c) 2015 Apple Inc. All rights reserved.
+//
+
+kernel vec4 blurBlend(sampler edge, sampler interp, sampler middle, vec4 extent, float padding, float edgeOpacity, float middleOpacity)
+{
+    vec2 size =  extent.zw;
+    vec2 coord = destCoord() - extent.xy;
+
+    float percent = (coord.x - padding)/(size.x - padding * 2.0);
+    percent = abs(percent - 0.5); // reflect first half around center, so we only need to deal with one half
+
+    // Linear algebra!
+    float middleTexPercent = max(0.0, 1.0 - 4.0*percent);
+    float interpTexPercent = max(0.0, 1.0 - 4.0*abs(0.25 - percent));
+    float edgeTexPercent = max(0.0, 4.0*percent - 1.0);
+
+    vec4 edgeColor = sample(edge, samplerCoord(edge)) * edgeTexPercent;
+    vec4 interpColor = sample(interp, samplerCoord(interp)) * interpTexPercent;
+    vec4 middleColor = sample(middle, samplerCoord(middle)) * middleTexPercent;
+
+    vec4 result = edgeColor + interpColor + middleColor;
+
+    float opacity = mix(middleOpacity, edgeOpacity, percent * 2.0);
+    result *= opacity;
+
+    return result;
+}

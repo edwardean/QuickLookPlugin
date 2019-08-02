@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptedDateFormats</key>
+	<array>
+		<string>yy/M/d</string>
+		<string>yy-M-d</string>
+		<string>yy/M-d</string>
+		<string>yy/M-d</string>
+		<string>yyyy/M/d</string>
+		<string>yyyy/MM/dd</string>
+		<string>M/d</string>
+		<string>M-d</string>
+		<string>MMM-d</string>
+		<string>MMM d</string>
+		<string>MMM-d</string>
+		<string>MMM d</string>
+		<string>MMMM d</string>
+		<string>yyyy MMMM</string>
+		<string>yy-MMM</string>
+		<string>yy MMM</string>
+		<string>yy/M</string>
+		<string>yy-M</string>
+		<string>yy-MMM-d</string>
+		<string>yy MMM d</string>
+		<string>yyyy ،MMM d</string>
+		<string>yyyy ،MMMM d</string>
+		<string>yy ،MMM d</string>
+		<string>yy ،MMM d</string>
+		<string>yy ،MMM d</string>
+		<string>yy ،MMM d،EEE</string>
+		<string>yyyy ،MMMM d،EEE</string>
+		<string>yy ،MMM d،EEE</string>
+		<string>yyyy ،MMMM d،EEEE</string>
+		<string>yyyy/M/d</string>
+		<string>yyyy-M-d</string>
+		<string>yyyy-MM-dd</string>
+		<string>yyyy MMMM</string>
+		<string>MMMM</string>
+	</array>
+	<key>AcceptedTimeFormats</key>
+	<array>
+		<string>H:mm</string>
+		<string>H:mm:ss</string>
+		<string>h a</string>
+		<string>h:mm</string>
+		<string>h:mm:ss</string>
+		<string>h:mm a</string>
+		<string>h:mma</string>
+		<string>h:mm:ss a</string>
+		<string>h:mm:ssa</string>
+		<string>HH:mm:ss</string>
+	</array>
+	<key>DisplayedDateFormats</key>
+	<array>
+		<string>yyyy ،MMMM d،EEEE</string>
+		<string>yyyy ،MMMM d،EEE</string>
+		<string>yyyy ،MMMM d</string>
+		<string>yyyy ،MMM d</string>
+		<string>MMMM d</string>
+		<string>yyyy MMMM</string>
+		<string>MMMM</string>
+		<string>yyyy</string>
+		<string>M/d</string>
+		<string>yyyy/M/d</string>
+		<string>yyyy/MM/dd</string>
+		<string>yy/M/d</string>
+		<string>yy/MM/dd</string>
+		<string>yyyy-MM-dd</string>
+	</array>
+	<key>DisplayedTimeFormats</key>
+	<array>
+		<string>h a</string>
+		<string>h:mm a</string>
+		<string>h:mm:ss a</string>
+		<string>H:mm</string>
+		<string>H:mm:ss</string>
+	</array>
+	<key>FileName</key>
+	<string>generic-ar-YMD.plist</string>
+</dict>
+</plist>

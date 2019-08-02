@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>yo</key>
+	<dict>
+		<key>dateFormats.full</key>
+		<string>EEEE, d MMMM y</string>
+		<key>dateFormats.long</key>
+		<string>d MMMM y</string>
+		<key>dateFormats.medium</key>
+		<string>d MMM y</string>
+		<key>dateFormats.short</key>
+		<string>dd/MM/y</string>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>Àárọ̀</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>Ọ̀sán</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>Àìkú</string>
+			<string>Ajé</string>
+			<string>Ìsẹ́gun</string>
+			<string>Ọjọ́rú</string>
+			<string>Ọjọ́bọ</string>
+			<string>Ẹtì</string>
+			<string>Àbámẹ́ta</string>
+		</array>
+		<key>days.format.narrow</key>
+		<array>
+			<string>S</string>
+			<string>M</string>
+			<string>T</string>
+			<string>W</string>
+			<string>T</string>
+			<string>F</string>
+			<string>S</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>Ọjọ́ Àìkú</string>
+			<string>Ọjọ́ Ajé</string>
+			<string>Ọjọ́ Ìsẹ́gun</string>
+			<string>Ọjọ́rú</string>
+			<string>Ọjọ́bọ</string>
+			<string>Ọjọ́ Ẹtì</string>
+			<string>Ọjọ́ Àbámẹ́ta</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>Àìkú</string>
+			<string>Ajé</string>
+			<string>Ìsẹ́gun</string>
+			<string>Ọjọ́rú</string>
+			<string>Ọjọ́bọ</string>
+			<string>Ẹtì</string>
+			<string>Àbámẹ́ta</string>
+		</array>
+		<key>days.stand-alone.narrow</key>
+		<array>
+			<string>S</string>
+			<string>M</string>
+			<string>T</string>
+			<string>W</string>
+			<string>T</string>
+			<string>F</string>
+			<string>S</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>Ọjọ́ Àìkú</string>
+			<string>Ọjọ́ Ajé</string>
+			<string>Ọjọ́ Ìsẹ́gun</string>
+			<string>Ọjọ́rú</string>
+			<string>Ọjọ́bọ</string>
+			<string>Ọjọ́ Ẹtì</string>
+			<string>Ọjọ́ Àbámẹ́ta</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>Ṣẹ́rẹ́</string>
+			<string>Èrèlè</string>
+			<string>Ẹrẹ̀nà</string>
+			<string>Ìgbé</string>
+			<string>Ẹ̀bibi</string>
+			<string>Òkúdu</string>
+			<string>Agẹmọ</string>
+			<string>Ògún</string>
+			<string>Owewe</string>
+			<string>Ọ̀wàrà</string>
+			<string>Bélú</string>
+			<string>Ọ̀pẹ̀</string>
+		</array>
+		<key>months.format.narrow</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+			<string>5</string>
+			<string>6</string>
+			<string>7</string>
+			<string>8</string>
+			<string>9</string>
+			<string>10</string>
+			<string>11</string>
+			<string>12</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>Oṣù Ṣẹ́rẹ́</string>
+			<string>Oṣù Èrèlè</string>
+			<string>Oṣù Ẹrẹ̀nà</string>
+			<string>Oṣù Ìgbé</string>
+			<string>Oṣù Ẹ̀bibi</string>
+			<string>Oṣù Òkúdu</string>
+			<string>Oṣù Agẹmọ</string>
+			<string>Oṣù Ògún</string>
+			<string>Oṣù Owewe</string>
+			<string>Oṣù Ọ̀wàrà</string>
+			<string>Oṣù Bélú</string>
+			<string>Oṣù Ọ̀pẹ̀</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>Ṣẹ́rẹ́</string>
+			<string>Èrèlè</string>
+			<string>Ẹrẹ̀nà</string>
+			<string>Ìgbé</string>
+			<string>Ẹ̀bibi</string>
+			<string>Òkúdu</string>
+			<string>Agẹmọ</string>
+			<string>Ògún</string>
+			<string>Owewe</string>
+			<string>Ọ̀wàrà</string>
+			<string>Bélú</string>
+			<string>Ọ̀pẹ̀</string>
+		</array>
+		<key>months.stand-alone.narrow</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+			<string>5</string>
+			<string>6</string>
+			<string>7</string>
+			<string>8</string>
+			<string>9</string>
+			<string>10</string>
+			<string>11</string>
+			<string>12</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>Oṣù Ṣẹ́rẹ́</string>
+			<string>Oṣù Èrèlè</string>
+			<string>Oṣù Ẹrẹ̀nà</string>
+			<string>Oṣù Ìgbé</string>
+			<string>Oṣù Ẹ̀bibi</string>
+			<string>Oṣù Òkúdu</string>
+			<string>Oṣù Agẹmọ</string>
+			<string>Oṣù Ògún</string>
+			<string>Oṣù Owewe</string>
+			<string>Oṣù Ọ̀wàrà</string>
+			<string>Oṣù Bélú</string>
+			<string>Oṣù Ọ̀pẹ̀</string>
+		</array>
+		<key>timeFormats.full</key>
+		<string>h:mm:ss a zzzz</string>
+		<key>timeFormats.long</key>
+		<string>h:mm:ss a z</string>
+		<key>timeFormats.medium</key>
+		<string>h:mm:ss a</string>
+		<key>timeFormats.short</key>
+		<string>h:mm a</string>
+	</dict>
+	<key>yo-BJ</key>
+	<dict>
+		<key>dayPeriods.format.abbreviated.am</key>
+		<string>Àárɔ̀</string>
+		<key>dayPeriods.format.abbreviated.pm</key>
+		<string>Ɔ̀sán</string>
+		<key>days.format.abbreviated</key>
+		<array>
+			<string>Àìkú</string>
+			<string>Ajé</string>
+			<string>Ìsɛ́gun</string>
+			<string>Ɔjɔ́rú</string>
+			<string>Ɔjɔ́bɔ</string>
+			<string>Ɛtì</string>
+			<string>Àbámɛ́ta</string>
+		</array>
+		<key>days.format.wide</key>
+		<array>
+			<string>Ɔjɔ́ Àìkú</string>
+			<string>Ɔjɔ́ Ajé</string>
+			<string>Ɔjɔ́ Ìsɛ́gun</string>
+			<string>Ɔjɔ́rú</string>
+			<string>Ɔjɔ́bɔ</string>
+			<string>Ɔjɔ́ Ɛtì</string>
+			<string>Ɔjɔ́ Àbámɛ́ta</string>
+		</array>
+		<key>days.stand-alone.abbreviated</key>
+		<array>
+			<string>Àìkú</string>
+			<string>Ajé</string>
+			<string>Ìsɛ́gun</string>
+			<string>Ɔjɔ́rú</string>
+			<string>Ɔjɔ́bɔ</string>
+			<string>Ɛtì</string>
+			<string>Àbámɛ́ta</string>
+		</array>
+		<key>days.stand-alone.wide</key>
+		<array>
+			<string>Ɔjɔ́ Àìkú</string>
+			<string>Ɔjɔ́ Ajé</string>
+			<string>Ɔjɔ́ Ìsɛ́gun</string>
+			<string>Ɔjɔ́rú</string>
+			<string>Ɔjɔ́bɔ</string>
+			<string>Ɔjɔ́ Ɛtì</string>
+			<string>Ɔjɔ́ Àbámɛ́ta</string>
+		</array>
+		<key>months.format.abbreviated</key>
+		<array>
+			<string>Shɛ́rɛ́</string>
+			<string>Èrèlè</string>
+			<string>Ɛrɛ̀nà</string>
+			<string>Ìgbé</string>
+			<string>Ɛ̀bibi</string>
+			<string>Òkúdu</string>
+			<string>Agɛmɔ</string>
+			<string>Ògún</string>
+			<string>Owewe</string>
+			<string>Ɔ̀wàrà</string>
+			<string>Bélú</string>
+			<string>Ɔ̀pɛ̀</string>
+		</array>
+		<key>months.format.wide</key>
+		<array>
+			<string>Oshù Shɛ́rɛ́</string>
+			<string>Oshù Èrèlè</string>
+			<string>Oshù Ɛrɛ̀nà</string>
+			<string>Oshù Ìgbé</string>
+			<string>Oshù Ɛ̀bibi</string>
+			<string>Oshù Òkúdu</string>
+			<string>Oshù Agɛmɔ</string>
+			<string>Oshù Ògún</string>
+			<string>Oshù Owewe</string>
+			<string>Oshù Ɔ̀wàrà</string>
+			<string>Oshù Bélú</string>
+			<string>Oshù Ɔ̀pɛ̀</string>
+		</array>
+		<key>months.stand-alone.abbreviated</key>
+		<array>
+			<string>Shɛ́rɛ́</string>
+			<string>Èrèlè</string>
+			<string>Ɛrɛ̀nà</string>
+			<string>Ìgbé</string>
+			<string>Ɛ̀bibi</string>
+			<string>Òkúdu</string>
+			<string>Agɛmɔ</string>
+			<string>Ògún</string>
+			<string>Owewe</string>
+			<string>Ɔ̀wàrà</string>
+			<string>Bélú</string>
+			<string>Ɔ̀pɛ̀</string>
+		</array>
+		<key>months.stand-alone.wide</key>
+		<array>
+			<string>Oshù Shɛ́rɛ́</string>
+			<string>Oshù Èrèlè</string>
+			<string>Oshù Ɛrɛ̀nà</string>
+			<string>Oshù Ìgbé</string>
+			<string>Oshù Ɛ̀bibi</string>
+			<string>Oshù Òkúdu</string>
+			<string>Oshù Agɛmɔ</string>
+			<string>Oshù Ògún</string>
+			<string>Oshù Owewe</string>
+			<string>Oshù Ɔ̀wàrà</string>
+			<string>Oshù Bélú</string>
+			<string>Oshù Ɔ̀pɛ̀</string>
+		</array>
+	</dict>
+</dict>
+</plist>

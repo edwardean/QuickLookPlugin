@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptedDateFormats</key>
+	<array>
+		<string>yy/MM/dd</string>
+		<string>yyyy-MM-dd</string>
+		<string>yyyy/MM/dd</string>
+		<string>yy-MM-dd</string>
+		<string>MMMM dd.</string>
+		<string>MMMM d.</string>
+		<string>MMM dd.</string>
+		<string>MMM d.</string>
+		<string>yyyy. MM. dd.</string>
+		<string>yy. MM. dd.</string>
+		<string>yy.MM.dd.</string>
+		<string>MM. dd.</string>
+		<string>yyyy. MM.</string>
+		<string>yyyy.MM.</string>
+		<string>yy. MM.</string>
+		<string>yyyy. MMM d.</string>
+		<string>yy. MMM d.</string>
+		<string>yy. MMM dd.</string>
+		<string>yyyy. MMM dd.</string>
+		<string>yy. MMM</string>
+		<string>yyyy. MMM</string>
+		<string>yy. MMMM d. EEE</string>
+		<string>yyyy. MMMM d. EEE</string>
+		<string>yy. MMM dd. EEE</string>
+		<string>yyyy. MMM dd. EEE</string>
+		<string>yyyy. MMMM</string>
+		<string>MMMM</string>
+	</array>
+	<key>AcceptedTimeFormats</key>
+	<array>
+		<string>HH:mm</string>
+		<string>HH:mm:ss</string>
+		<string>hh:mm</string>
+		<string>hh:mm:ss</string>
+	</array>
+	<key>DisplayedDateFormats</key>
+	<array>
+		<string>yy/MM/dd</string>
+		<string>yyyy-MM-dd</string>
+		<string>yyyy/MM/dd</string>
+		<string>yy-MM-dd</string>
+		<string>yyyy. MM. dd.</string>
+		<string>yy. MM. dd.</string>
+		<string>yy.MM.dd.</string>
+		<string>MM. dd.</string>
+		<string>yyyy. MM.</string>
+		<string>yy. MM.</string>
+		<string>yyyy. MMM d.</string>
+		<string>yy. MMM d.</string>
+		<string>yy. MMM dd.</string>
+		<string>yyyy. MMM dd.</string>
+		<string>yy. MMM</string>
+		<string>yyyy. MMM</string>
+		<string>yy. MMMM d. EEE</string>
+		<string>yyyy. MMMM d. EEE</string>
+		<string>yy. MMM dd. EEE</string>
+		<string>yyyy. MMM dd. EEE</string>
+		<string>yyyy. MMMM</string>
+		<string>MMMM</string>
+		<string>yyyy.MM.</string>
+		<string>MMMM dd.</string>
+		<string>MMMM d.</string>
+		<string>MMM dd.</string>
+		<string>MMM d.</string>
+	</array>
+	<key>DisplayedTimeFormats</key>
+	<array>
+		<string>HH:mm</string>
+		<string>HH:mm:ss</string>
+		<string>hh a</string>
+		<string>hh:mm</string>
+		<string>hh:mm:ss</string>
+		<string>hh:mm a</string>
+		<string>hh:mm:ss a</string>
+	</array>
+	<key>FileName</key>
+	<string>generic-hu-YMD.plist</string>
+</dict>
+</plist>

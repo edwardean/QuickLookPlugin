@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>TSDShapeLibraryCategorySort</key>
+    <array>
+      <string>Objects_37</string>
+      <string>Animals_52</string>
+      <string>Nature_34</string>
+      <string>Food_36</string>
+      <string>Symbols_46</string>
+      <string>Education_43</string>
+      <string>Arts_38</string>
+      <string>Science_57</string>
+      <string>People_49</string>
+      <string>Places_47</string>
+      <string>Activities_44</string>
+      <string>Transportation_42</string>
+      <string>Work_39</string>
+    </array>
+  </dict>
+</plist>
